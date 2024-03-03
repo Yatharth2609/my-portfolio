@@ -71,7 +71,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base md:text-lg">
-            Hello! I'm a passionate and driven computer science engineering
+            Hello! I&apos;m a passionate and driven computer science engineering
             student with a keen interest in Data Structures and Algorithms, web
             development, and creative problem-solving. I thrive in collaborative
             environments and am known for my leadership skills and ability to

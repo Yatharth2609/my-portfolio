@@ -46,10 +46,10 @@ const HeroSection = () => {
           </h1>
           <p className="text-[#adb7be] mb-6 text-base sm:text-lg lg:text-xl">
             <i>
-              "As a computer science enthusiast and aspiring engineer, I bring a
+              &quot;As a computer science enthusiast and aspiring engineer, I bring a
               blend of technical proficiency in DSA and web development, coupled
               with creative problem-solving skills, leadership qualities, and a
-              collaborative spirit to every project I undertake."
+              collaborative spirit to every project I undertake.&quot;
             </i>
           </p>
           <div>
